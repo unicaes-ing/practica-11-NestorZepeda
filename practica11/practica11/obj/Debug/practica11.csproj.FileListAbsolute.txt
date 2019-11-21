@@ -1,0 +1,6 @@
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\bin\Debug\practica11.exe.config
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\bin\Debug\practica11.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\bin\Debug\practica11.pdb
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\obj\Debug\practica11.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\obj\Debug\practica11.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica11\practica11\practica11\obj\Debug\practica11.pdb
